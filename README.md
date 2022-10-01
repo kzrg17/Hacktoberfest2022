@@ -1,24 +1,30 @@
+# Hacktoberfest_2022
 
-# Hacktoberfest2022
-![walpapare](https://user-images.githubusercontent.com/42824788/193396931-cc81f2cb-b844-4622-8667-101037dd846d.jpg)
+<img src="https://uno-website-assets.s3.amazonaws.com/wp-content/uploads/2022/09/28094927/Uno_HackFest22_Hero_V1-1024x395.jpg" width="100%">
 
-# What is Hacktoberfest
-## What is Hacktoberfest
+If you looking for your first contribution, we are here to help. Just create a simple program using any language you like in our folder which will be counted as your first PR
 
-Hacktoberfest is open to everyone in our global community! Four quality pull requests must be submitted to public GitHub repositories. You can sign up anytime between October 1 and October 31.
+Step By Step:
+- star and fork this repo
+- build your simple program using any language you like in our folder and give name your simple program with your username
+- Note: Please place your files according to the available folder, if there is no folder you can create the folder.
+- don't forget to add your name in CONTRIBUTING.md
+- do pull request
+- done
 
-[About Hacktoberfest](https://hacktoberfest.com/about/)
+Once again I remind you, please don't forget to enter your name on contributing.md
+Thank you for participate with this repo. let's connect with me by following me in github.
 
-## Contributors
+## Terjemahan Indonesia
+Jika Anda mencari kontribusi pertama Anda, kami di sini untuk membantu. Cukup buat program sederhana menggunakan bahasa apa pun yang Anda suka di folder yang kami sediakan. akan dihitung sebagai PR pertama Anda
 
-[Stuckcode](https://stuckcode.com)
+langkah-langkah:
+- bintangi dan fork repo ini
+- buat program sederhana Anda menggunakan bahasa apa pun yang Anda suka di folder yang telah disediakan dan beri nama program sederhana Anda dengan nama pengguna Anda 
+- Note: Tolong tempatkan file anda sesuai folder yang tersedia, jika tidak ada folder anda dapat membuat folder tersebut.
+- jangan lupa tambahkan nama Anda di CONTRIBUTING.md
+- lakukan pull request
+- selesai
 
-## How to contribute
-
-- Fork this repository
-- Clone your repo
-- Add your name in readme.md
-- Push
-- Pull request
-## Read more at
-[https://www.dataschool.io/how-to-contribute-on-github](https://www.dataschool.io/how-to-contribute-on-github/)
+Sekali lagi saya ingatkan, dimohon jangan lupa masukkan nama anda di contributing.md
+Terima kasih telah berpartisipasi dengan repo ini. mari terhubung dengan saya dengan mengikuti saya di github.
